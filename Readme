@@ -1,0 +1,12 @@
+Parsing natural language queries into SQL queries can be thought of as a specialized form of machine
+translation. Over recent years, there has been a significant surge in scholarly interest in machine translation,
+a central problem in the field of machine learning. Traditional machine translation primarily deals with the
+conversion of text from one language to another, aiming to bridge linguistic gaps. In today's digital age,
+businesses and organizations store vast amounts of data and records in relational databases. While these
+databases offer robust data storage capabilities, retrieving the information they hold often necessitates
+expertise in query languages like SQL, which are used to access and manipulate the data.
+Generating SQL queries from natural language questions is a topic that has gained considerable attention in
+both academic research and commercial applications. The process involves translating user questions
+expressed in plain, everyday language into SQL queries that can efficiently retrieve data from relational
+databases. This task is challenging due to the need to bridge the gap between the way humans communicate
+and the structured, syntax-driven nature of SQL queries.
